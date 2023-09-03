@@ -8,4 +8,4 @@ It enhances the user experience by creating visually appealing and user-friendly
 
 Then JavaScript was used to add interactivity and dynamic behavior to the website. It provides the ability to handle user events like clicks, mouse movements, and keyboard inputs. Here all other play, pause, forward, and backward buttons were defined and the seek bar was updated.
 
-The website was made live and the link to it is- https://ananya05iit.github.io/Spotify-Clone-Website/
+
